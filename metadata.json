@@ -1,0 +1,8 @@
+{
+  "name": "Jarvis - A Personal AI Companion",
+  "description": "An advanced AI chat application featuring a personalized AI companion with a dynamic personality, built with the Gemini API. The AI is loyal to its creator, Sourabh, and dismissive to others.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
